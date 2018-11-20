@@ -3,7 +3,7 @@
 * ---------------------------------------------------------
 * Exercise Number: 0
 * Title:			car.h
-* Author:			P. Bauer
+* Author:			
 * Due Date:		January 9, 2015
 * ----------------------------------------------------------
 * Description:

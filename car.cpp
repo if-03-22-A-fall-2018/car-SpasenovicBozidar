@@ -1,8 +1,11 @@
 #include "car.h"
-
+#include <stdlib.h>
 Car get_car(CarType type)
 {
-  return 0;
+  Car data = (CarImplementation)malloc(sizeof(Car));
+  data->Color = Color[0];
+  data->CarType = CarType[0];
+  return data;
 }
 CarType get_type(Car car)
 {
